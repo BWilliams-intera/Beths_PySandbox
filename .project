@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Beths_PySandbox</name>
+	<comment></comment>
+	<projects>
+		<project>Beths Sandbox</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.python.pydev.PyDevBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.python.pydev.pythonNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Learning Unittests</name>
+			<type>2</type>
+			<location>C:/Beths_PySandbox/Learning Unittests</location>
+		</link>
+		<link>
+			<name>Swampy</name>
+			<type>2</type>
+			<location>C:/Beths_PySandbox/swampy-2.1.5.python3/swampy-2.1.5</location>
+		</link>
+		<link>
+			<name>pandas-cookbook-master</name>
+			<type>2</type>
+			<location>C:/Beths_PySandbox/Learning Unittests/pandas-cookbook-master</location>
+		</link>
+		<link>
+			<name>Learning Unittests/matplotlib-tutorial-master</name>
+			<type>2</type>
+			<location>C:/Beths_PySandbox/Learning Unittests/matplotlib-tutorial-master</location>
+		</link>
+	</linkedResources>
+</projectDescription>
